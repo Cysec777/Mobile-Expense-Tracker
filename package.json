@@ -10,10 +10,20 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/toolbar-android": "^0.2.1",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.0",
+    "expo": "^46.0.14",
+    "native-base": "^3.4.17",
     "react": "18.1.0",
-    "react-native": "0.70.1"
+    "react-native": "0.70.1",
+    "react-native-gesture-handler": "^2.7.0",
+    "react-native-reanimated": "^2.10.0",
+    "react-native-svg": "^13.3.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
